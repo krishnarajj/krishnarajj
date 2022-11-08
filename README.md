@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/96655654/200597204-710aab32-490e-4d10-b9f9-92e87f414b1c.png)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=👋Hi,there+I'm+krishnaraj;Welcome+to+my+profile;👀I’m+interested+in+Devops;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=👋Hi,there+I'm+krishnaraj;Welcome+to+my+profile;👀I’m+interested+in+Devops;I'm+a+Tech+savvy+easily+adapt+to+new+Tech)](https://git.io/typing-svg)
 
 
 
