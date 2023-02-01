@@ -10,6 +10,7 @@ krishnarajj/krishnarajj is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 **📫 How to Reach me:**
+
 <p align="left">
 <a href="mailto:krishna005.kr@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 
