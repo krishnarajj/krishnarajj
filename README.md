@@ -25,3 +25,8 @@
   <a href="mailto:krishna005.kr@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 
 </p>
+
+- Take a Look on my Linkedin profile where I have organized my projects,Certs:
+  
+
+    [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krishnaraj-r-8a5669176/)
